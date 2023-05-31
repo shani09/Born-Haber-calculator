@@ -1,3 +1,4 @@
 # Born-Haber-calculator
+Mar 2015 - Apr 2015
 
-Independent project during my junior year of high school, and my first personal programming project. Created a program in Python that calculates eight different values commonly required to calculate in Chemistry. Required deep understanding of the concepts and calculations learned in Chemistry class.
+Independent Python project I initiated during my junior year of high school, inspired by calculations needed for Chemistry exercises.
